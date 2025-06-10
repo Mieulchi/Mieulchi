@@ -2,8 +2,8 @@
 
 # 🌟 ujk330's GitHub Profile
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yes6686)](https://solved.ac/yes6686/)
-<img src="http://mazandi.herokuapp.com/api?handle=yes6686&theme=cold" alt="mazandi"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujk330)](https://solved.ac/ujk330/)
+<img src="http://mazandi.herokuapp.com/api?handle=ujk330&theme=cold" alt="mazandi"/>
 
 ![ujk330's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ujk330)
 
