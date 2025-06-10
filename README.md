@@ -32,12 +32,10 @@
 ## 👩‍🏫 Other Achievements & Experiences
 
 
-<div align="center">
- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ujk330&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mieulchi&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/ujk330"
+  src="https://render.gitanimals.org/farms/Mieulchi"
   width="600"
   height="300"
 />
 </a>
-</div>
